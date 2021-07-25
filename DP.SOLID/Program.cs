@@ -10,6 +10,8 @@ namespace DP.SOLID
     {
         static void Main(string[] args)
         {
+            LogManager.Info("Hello World!");
         }
+
     }
 }
