@@ -58,6 +58,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Diagnostics\Logger\HDDLogger.cs" />
     <Compile Include="Diagnostics\Logger\ILogger.cs" />
     <Compile Include="Diagnostics\Logger\ILoggerPrefix.cs" />
     <Compile Include="Diagnostics\Logger\LoggerBase.cs" />
